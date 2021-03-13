@@ -1,9 +1,14 @@
 public class first {
-    public static void main(String[] args) {
-        int a=12;
-        int b=24;
-        int c=a+b;
-
-        System.out.println(c);
+    public static void main(String[] args)
+    {
+        System.out.println("    -");
+        System.out.println("   . .");
+        System.out.println("  | | |");
+        System.out.println(" - - - -");
+        System.out.println("-  Anna  -");
+        System.out.println(" - - - -");
+        System.out.println("  | | |");
+        System.out.println("   . .");
+        System.out.println("    -");
     }
 }
